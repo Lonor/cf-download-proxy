@@ -25,3 +25,5 @@ pnpm build
 ```
 
 The built file is in the `dist` folder, you can upload it directly to Cloudflare Workers.
+
+.
